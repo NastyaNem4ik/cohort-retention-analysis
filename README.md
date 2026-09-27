@@ -145,6 +145,12 @@ El análisis de cohortes muestra una disminución del número de usuarios activo
 
 El Retention Rate permite observar esta evolución de forma porcentual y comparar el comportamiento de las cohortes entre los diferentes tipos de adquisición.
 
+## Visualización del proyecto
+
+La visualización final del análisis se realizó en Google Sheets:
+
+![Cohort Retention Analysis](cohort-retention-analysis.png)
+
 ## 8. Resultado final
 
 El resultado del análisis se presenta en Google Sheets mediante:
