@@ -53,7 +53,7 @@ El objetivo es obtener un formato de fecha uniforme para poder trabajar correcta
 
 ### Paso 2. Preparación de los datos de usuarios
 
-En `dateset_users` se seleccionan los campos necesarios para el análisis y se convierte la fecha normalizada en un tipo `date`.
+En `dataset_users` se seleccionan los campos necesarios para el análisis y se convierte la fecha normalizada en un tipo `date`.
 
 El campo `signup_date_users` representa la fecha de registro de cada usuario.
 
@@ -67,7 +67,7 @@ Se limpian y normalizan los valores de `event_datetime` para obtener una fecha v
 
 ### Paso 4. Preparación de los datos de eventos
 
-En `dateset_events` se seleccionan los campos necesarios de los eventos y se convierte la fecha normalizada en un tipo `date`.
+En `dataset_events` se seleccionan los campos necesarios de los eventos y se convierte la fecha normalizada en un tipo `date`.
 
 El campo `date_events` representa la fecha en la que tuvo lugar el evento.
 
