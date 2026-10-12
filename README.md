@@ -166,12 +166,13 @@ El resultado del análisis se presenta en Google Sheets mediante:
 El archivo SQL utilizado para generar los datos se encuentra en este repositorio.
 
 
-## 9. Key Insights
-
-- **Adquisición:** el canal orgánico atrajo 358 usuarios, frente a 242 del canal promocional.
-- **Retención:** en la cohorte de enero, la retención orgánica fue del 82,86 % al mes 1 y del 55,71 % al mes 5, frente al 61,76 % y al 8,82 % del canal promocional.
-- **Conclusión:** los usuarios orgánicos mostraron una mayor retención en la cohorte analizada. Se recomienda investigar el rendimiento de las campañas promocionales y comparar los costes de adquisición de ambos canales.
-
+## 9. Conclusiones clave
+- Adquisición: 358 usuarios orgánicos frente a 242 promocionales (enero–junio 2025).
+- Retención (cohorte de enero): orgánicos 82,86 % al mes 1 y 55,71 % al mes 5 (n = 70); promocionales 61,76 % y 8,82 % (n = 34). Se considera activo al usuario con al menos un evento en el mes.
+- Patrón: la retención promocional cae unos 53 p. p. entre el mes 1 y el mes 5, frente a unos 27 p. p. en la orgánica. [Si se confirma en otras cohortes: “Este patrón se repite en las cohortes de febrero–abril.”]
+- Hipótesis: las promociones podrían atraer usuarios motivados por el descuento, con menor interés a largo plazo.
+- Recomendaciones: comparar CAC y LTV por canal, analizar qué ocurre al finalizar la promoción y probar un onboarding específico para usuarios promocionales mediante un test A/B.
+- Limitaciones: cohortes pequeñas y menos meses de observación en las cohortes más recientes.
 
 
 
