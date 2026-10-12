@@ -166,5 +166,12 @@ El resultado del análisis se presenta en Google Sheets mediante:
 El archivo SQL utilizado para generar los datos se encuentra en este repositorio.
 
 
+## 9. Key Insights
+
+- **Adquisición:** el canal orgánico atrajo 358 usuarios, frente a 242 del canal promocional.
+- **Retención:** en la cohorte de enero, la retención orgánica fue del 82,86 % al mes 1 y del 55,71 % al mes 5, frente al 61,76 % y al 8,82 % del canal promocional.
+- **Conclusión:** los usuarios orgánicos mostraron una mayor retención en la cohorte analizada. Se recomienda investigar el rendimiento de las campañas promocionales y comparar los costes de adquisición de ambos canales.
+
+
 
 
