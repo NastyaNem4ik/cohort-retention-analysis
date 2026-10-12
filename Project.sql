@@ -26,7 +26,7 @@ clean_date_users_2 as (
     from clean_date_users_1
 ),
 
-dateset_users as (
+dataset_users as (
     select
         user_id,
         full_name,
@@ -67,7 +67,7 @@ clean_date_events_2 as (
     from clean_date_events_1
 ),
 
-dateset_events as (
+dataset_events as (
     select
         event_id,
         user_id,
@@ -106,9 +106,9 @@ cohort_table as (
             + extract(month from du.signup_date_users)
         ) as month_offset
 
-    from dateset_users du
+    from dataset_users du
 
-    left join dateset_events dv
+    left join dataset_events dv
         on du.user_id = dv.user_id
 
     where du.signup_date_users is not null
